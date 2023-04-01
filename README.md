@@ -1,0 +1,1 @@
+This is a direct copy of the sample located [here](https://android.googlesource.com/platform/development/+/master/samples/WiFiDirectServiceDiscovery?autodive=0%2F%2F%2F)
